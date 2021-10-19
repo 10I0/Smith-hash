@@ -9,7 +9,7 @@ Smith-Hash@github
 ----------------
 
        OS  :  Linux
-      CPU  :  Intell I7 9700k
+      CPU  :  Intell I7
     Alias  :  Smith/exif.
 Languages  :  Python
   Discord  :  879743992332439613

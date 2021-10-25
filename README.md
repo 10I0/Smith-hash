@@ -11,7 +11,7 @@ Smith-Hash@github
        OS  :  Arch Linux x86_64
       CPU  :  Intel i7-9700F (8) @ 4.50GHz
       GPU  :  MSI 1660 Super
-    Alias  :  Smith/exif.
+    Alias  :  Smith/exif
 Languages  :  Python
   Discord  :  879743992332439613
 ```

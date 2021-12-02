@@ -2,15 +2,17 @@
 > neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
+<img align="left" src="https://cdn.discordapp.com/icons/902300123114123264/66eeb550c5a6808225f318fe4b7247d4.webp?" alt="logo.png" width="200" /> 
 
 ```csharp
 Smith-Hash@github
 ----------------
 
-       OS  :  Arch Linux x86_64
-      CPU  :  Intel i7-9700F (8) @ 4.50GHz
-      GPU  :  MSI 1660 Super
+       OS  :  macOS 12.0.1 21A559 arm64
+       WM  :  Quartz Compositor
+    Shell  :  zsh 5.8
+ Terminal  :  Apple_Terminal
+      CPU  :  Apple M1
     Alias  :  Smith/exif
 Languages  :  Python
   Discord  :  879743992332439613

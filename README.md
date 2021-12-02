@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://cdn.discordapp.com/icons/902300123114123264/66eeb550c5a6808225f318fe4b7247d4.webp?" alt="logo.png" width="200" /> 
+<img align="left" src="https://slut.email/img/slutbox.png" alt="logo.png" width="200" /> 
 
 ```csharp
 Smith-Hash@github

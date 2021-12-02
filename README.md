@@ -8,7 +8,7 @@
 Smith-Hash@github
 ----------------
 
-       OS  :  macOS 12.0.1 21A559 arm64
+       OS  :  macOS arm64
        WM  :  Quartz Compositor
     Shell  :  zsh 5.8
  Terminal  :  Apple_Terminal
